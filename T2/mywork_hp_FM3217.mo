@@ -18,5 +18,9 @@ package mywork_hp_FM3217
   end T1_hp;
 
   package T2_hp
+    model MotorT2
+      annotation (Icon(coordinateSystem(preserveAspectRatio=false)), Diagram(
+            coordinateSystem(preserveAspectRatio=false)));
+    end MotorT2;
   end T2_hp;
 end mywork_hp_FM3217;
